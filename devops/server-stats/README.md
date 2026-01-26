@@ -2,7 +2,7 @@
 
 > Goal of this project is to write a script to analyse server performance stats.
 
-> Challenge: [Click Here](https://roadmap.sh/projects/server-stats)
+> Challenge: [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
 
 ### Requirements
 

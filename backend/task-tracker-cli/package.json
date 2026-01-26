@@ -1,0 +1,15 @@
+{
+  "name": "task_tracker",
+  "version": "1.0.0",
+  "description": "> Building a CLI app to track tasks and manage to-do list.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node /app.js",
+    "start": "node /app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

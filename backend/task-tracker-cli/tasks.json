@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "done",
+    "createdAt": "2026-01-24T15:04:30.026Z",
+    "updatedAt": "2026-01-24T15:30:58.154Z"
+  },
+  {
+    "id": 3,
+    "description": "Updated Task",
+    "status": "in-progress",
+    "createdAt": "2026-01-24T15:16:20.861Z",
+    "updatedAt": "2026-01-24T15:31:38.817Z"
+  },
+  {
+    "id": 4,
+    "description": "Go to GYM",
+    "status": "todo",
+    "createdAt": "2026-01-24T15:31:16.919Z",
+    "updatedAt": "2026-01-24T15:31:16.921Z"
+  }
+]

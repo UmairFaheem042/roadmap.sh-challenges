@@ -3,5 +3,5 @@
 This repository contains my roadmap.sh practice projects.
 
 ## Structure
-- DevOps
-- Backend
+- devops
+    - server-stats: [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)

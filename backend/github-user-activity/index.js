@@ -1,5 +1,5 @@
-import { fetchGitHubEvents } from "./api/githubEvents.js";
-import { outputFormatter } from "./formatter/eventFormatter.js";
+const { fetchGitHubEvents } = require("./api/githubEvents.js");
+const { outputFormatter } = require("./formatter/eventFormatter.js");
 
 const main = async () => {
   const args = process.argv.slice(2);
@@ -13,7 +13,6 @@ const main = async () => {
   console.log(`Fetching GitHub events for user: ${username}`);
 
   const rawData = await fetchGitHubEvents(username);
-  // const formattedData = outputFormatter(rawData);
   outputFormatter(rawData);
 };
 

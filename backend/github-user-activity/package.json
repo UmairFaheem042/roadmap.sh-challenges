@@ -1,0 +1,21 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "A CLI tool to fetch and display GitHub user activity",
+  "main": "index.js",
+  "bin": {
+    "start": "node index.js",
+    "github-activity": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "cli",
+    "activity",
+    "terminal"
+  ],
+  "author": "Umair Faheem",
+  "license": "MIT"
+}

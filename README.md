@@ -9,3 +9,4 @@ This repository contains my roadmap.sh practice projects.
 - backend
     - task-tracker-cli: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
     - github-user-activity: [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
+    - expense-tracker: [https://roadmap.sh/projects/expense-tracker](https://roadmap.sh/projects/expense-tracker)

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1770123160979,
+    "description": "Stationery",
+    "amount": 200,
+    "createdAt": "2026-02-03T12:52:40.979Z"
+  },
+  {
+    "id": 1770197282620,
+    "description": "Watch",
+    "amount": 3500,
+    "createdAt": "2026-02-04T09:28:02.620Z"
+  }
+]
